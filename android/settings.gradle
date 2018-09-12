@@ -1,0 +1,3 @@
+rootProject.name = 'rnmaadfm'
+
+include ':app'
